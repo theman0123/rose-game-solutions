@@ -1,0 +1,20 @@
+.Thumbnail-portrait {
+  width: 150px;
+  height: 200px;
+  border: solid black 2px;
+}
+
+.Thumbnail-landscape {
+  width: 250px;
+  height: 150px;
+  border: solid black 2px;
+}
+
+hr {
+  width: 70vw;
+}
+
+.Title {
+  font-weight: bolder;
+  font-size: 1em;
+}

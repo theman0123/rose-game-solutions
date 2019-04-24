@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="Nav-container"
+>
+  <div
+    className="Container-horizontal"
+  >
+    <a
+      className="Link"
+      href="/games"
+      onClick={[Function]}
+    >
+      Games
+    </a>
+    <a
+      className="Link"
+      href="/about"
+      onClick={[Function]}
+    >
+      About
+    </a>
+    <a
+      className="Link"
+      href="/services"
+      onClick={[Function]}
+    >
+      Services
+    </a>
+  </div>
+  <div
+    className="Current-location"
+  >
+    Home
+  </div>
+</div>
+`;

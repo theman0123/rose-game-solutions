@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 90 51" fill="white">
+  
+  <rect x="0" y="0" width="35" height="15" fill="black" />
+  <text x="0" y="13">Rose</text>
+  
+  <rect x="10" y="18" width="40" height="15" fill="black" />
+  <text x="10" y="31">Game</text>
+  
+  <rect x="0" y="36" width="63" height="15" fill="black" />
+  <text x="0" y="49">Solutions</text>
+</svg>
